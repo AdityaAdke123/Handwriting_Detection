@@ -1,15 +1,1 @@
-# Term-Project
-Analysis the Parkinson Decease 
-
-Befor you start working on it, enter in the terminal:
-
-git pull
-
-
-When uplouding things:
-
-git add .
-
-git commit -m "text"
-
-git push origin main
+![Screenshot (1978)](https://github.com/user-attachments/assets/f5b8def6-4e5c-4f13-850c-5f7590187e85)
